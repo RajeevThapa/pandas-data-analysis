@@ -1,0 +1,313 @@
+Question No.,Question,Response,Percentage
+1,Organization,Organization - E,49.66226138032305
+1,Organization,Organization - D,19.251101321585903
+1,Organization,Organization - C,15.007342143906023
+1,Organization,Organization - B,10.396475770925111
+1,Organization,Organization - A,5.682819383259912
+2,Position/Level,Assistant Level,58.66372980910426
+2,Position/Level,Officer Level,32.04111600587372
+2,Position/Level,Management Level,8.487518355359764
+2,Position/Level,Senior Management Level,0.8076358296622614
+3,How long have you been working in the Organizationing sector?,Below 5 Years,41.14537444933921
+3,How long have you been working in the Organizationing sector?,5-10 Years,29.88252569750367
+3,How long have you been working in the Organizationing sector?,10-20 Years,26.123348017621144
+3,How long have you been working in the Organizationing sector?,Above 20 Years,2.8487518355359764
+4,Sex,Male,68.44346549192363
+4,Sex,Female,31.512481644640232
+4,Sex,Other,0.04405286343612335
+5,Age,25-35 Years,66.57365251872521
+5,Age,36-45 Years,23.806726391540607
+5,Age,Below 25 Years,5.4046115435453075
+5,Age,46-55 Years,4.053458657658981
+5,Age,Above 56 Years,0.146864444118079
+5,Age,Above 56 years,0.0146864444118079
+6,Qualification,Masters,60.05873715124817
+6,Qualification,Bachelors,35.24229074889868
+6,Qualification,Intermediate,4.6255506607929515
+6,Qualification,PhD,0.07342143906020558
+7,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s conflict resolution and communication skills.]",4.0,41.239535908356586
+7,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s conflict resolution and communication skills.]",3.0,29.04978704655603
+7,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s conflict resolution and communication skills.]",5.0,15.39139374357468
+7,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s conflict resolution and communication skills.]",2.0,10.383316199148187
+7,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s conflict resolution and communication skills.]",1.0,3.9359671023645175
+8,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s trust level.]",4.0,39.844323689234834
+8,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s trust level.]",3.0,25.17256572183874
+8,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s trust level.]",5.0,20.605081509766485
+8,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s trust level.]",2.0,10.251138199441916
+8,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor’s trust level.]",1.0,4.126890879718021
+9,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Regular feedback and support from the supervisor.]",4.0,36.1192714453584
+9,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Regular feedback and support from the supervisor.]",3.0,26.233842538190366
+9,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Regular feedback and support from the supervisor.]",5.0,20.44653349001175
+9,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Regular feedback and support from the supervisor.]",2.0,11.603995299647474
+9,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Regular feedback and support from the supervisor.]",1.0,5.596357226792009
+10,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor's leadership skills.]",4.0,35.707990599294945
+10,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor's leadership skills.]",3.0,26.439482961222094
+10,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor's leadership skills.]",5.0,19.88836662749706
+10,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor's leadership skills.]",2.0,11.72150411280846
+10,"How would you rate the following statements about your manager/supervisor? 
+Please indicate between 1-5 (1= very poor and 5= extremely good) [Supervisor's leadership skills.]",1.0,6.242655699177439
+11,How well the following statements apply to your manager/supervisor?  [My supervisor listens to me.],Agree,65.11457109283197
+11,How well the following statements apply to your manager/supervisor?  [My supervisor listens to me.],Neutral,28.128672150411283
+11,How well the following statements apply to your manager/supervisor?  [My supervisor listens to me.],Disagree,6.756756756756757
+12,How well the following statements apply to your manager/supervisor?  [My supervisor is well aware about my work load and responsibilities.],Agree,60.792951541850215
+12,How well the following statements apply to your manager/supervisor?  [My supervisor is well aware about my work load and responsibilities.],Neutral,27.91483113069016
+12,How well the following statements apply to your manager/supervisor?  [My supervisor is well aware about my work load and responsibilities.],Disagree,11.292217327459618
+13,How well the following statements apply to your manager/supervisor?  [My supervisor provides me sufficient information to support my work.],Agree,58.00764031736703
+13,How well the following statements apply to your manager/supervisor?  [My supervisor provides me sufficient information to support my work.],Neutral,30.766970320305614
+13,How well the following statements apply to your manager/supervisor?  [My supervisor provides me sufficient information to support my work.],Disagree,11.225389362327357
+14,How well the following statements apply to your manager/supervisor?  [My supervisor cares about my career advancement.],Agree,45.712187958883995
+14,How well the following statements apply to your manager/supervisor?  [My supervisor cares about my career advancement.],Neutral,36.813509544787074
+14,How well the following statements apply to your manager/supervisor?  [My supervisor cares about my career advancement.],Disagree,17.474302496328928
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Agree,50.85218924478402
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Strongly agree,24.507787246547164
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Neutral,15.706729356450191
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Disagree,4.7164266823391126
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Strongly Agree,2.145166029973553
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Strongly disagree,2.0423156038789303
+15,Work Satisfaction - Please indicate your level of agreement with the following statements. [I enjoy my work.],Strongly Disagree,0.02938583602703497
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Agree,37.353113983548766
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Strongly agree,22.547003525264394
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Neutral,19.60928319623972
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Disagree,11.853701527614572
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Strongly disagree,6.345475910693302
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Strongly Agree,2.027027027027027
+16,Work Satisfaction - Please indicate your level of agreement with the following statements. [I plan to stay at my current work place for at least 2 years.],Strongly Disagree,0.26439482961222094
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Agree,43.66735233617396
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Neutral,21.348809873640906
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Strongly agree,18.63062004114017
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Disagree,10.476050543637966
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Strongly disagree,3.9964736996767556
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Strongly Agree,1.792535997649133
+17,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am happy with my work load and job responsibilities.],Strongly Disagree,0.08815750808110491
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Agree,30.095518001469507
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Neutral,28.626010286554006
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Disagree,19.368111682586335
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Strongly agree,10.727406318883174
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Strongly disagree,9.875091844232182
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Strongly Agree,0.9404849375459221
+18,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am rewarded for my contribution.],Strongly Disagree,0.36737692872887584
+19,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am completely focused on my job duties at work.],Strongly agree,54.49603291213635
+19,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am completely focused on my job duties at work.],Agree,35.791948280928594
+19,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am completely focused on my job duties at work.],Neutral,4.099324125771378
+19,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am completely focused on my job duties at work.],Strongly Agree,4.055245371730826
+19,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am completely focused on my job duties at work.],Disagree,0.8228034087569792
+19,Work Satisfaction - Please indicate your level of agreement with the following statements. [I am completely focused on my job duties at work.],Strongly disagree,0.7346459006758742
+20,How well the following statements apply to you?  [I feel good about changing job roles frequently.],Agree,71.12417340191037
+20,How well the following statements apply to you?  [I feel good about changing job roles frequently.],Disagree,28.87582659808964
+21,How well the following statements apply to you?  [My work impacts Organization’s business goal.],Agree,93.47730277655356
+21,How well the following statements apply to you?  [My work impacts Organization’s business goal.],Disagree,6.522697223446452
+22,How well the following statements apply to you?  [I feel insecure at my job and career prospect.],Disagree,60.69958847736625
+22,How well the following statements apply to you?  [I feel insecure at my job and career prospect.],Agree,39.300411522633745
+23,How well the following statements apply to you?  [I feel that my Organization’s brand image in public is good.],Agree,91.93121693121694
+23,How well the following statements apply to you?  [I feel that my Organization’s brand image in public is good.],Disagree,8.068783068783068
+24,How well the following statements apply to you?  [I see the opportunity for my career growth.],Agree,77.05303364183929
+24,How well the following statements apply to you?  [I see the opportunity for my career growth.],Disagree,22.94696635816072
+25,Training Opportunities - Please indicate your level of agreement with the following statements.  [I get enough training opportunities.],Agree,35.45401116661769
+25,Training Opportunities - Please indicate your level of agreement with the following statements.  [I get enough training opportunities.],Neutral,30.20863943579195
+25,Training Opportunities - Please indicate your level of agreement with the following statements.  [I get enough training opportunities.],Disagree,19.35057302380253
+25,Training Opportunities - Please indicate your level of agreement with the following statements.  [I get enough training opportunities.],Strongly Disagree,7.978254481339994
+25,Training Opportunities - Please indicate your level of agreement with the following statements.  [I get enough training opportunities.],Strongly agree,6.36203349985307
+25,Training Opportunities - Please indicate your level of agreement with the following statements.  [I get enough training opportunities.],Strongly Agree,0.6464883925947693
+26,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to improve my work efficiency.],Agree,49.90448199853049
+26,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to improve my work efficiency.],Strongly agree,20.161645848640706
+26,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to improve my work efficiency.],Neutral,19.50036737692873
+26,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to improve my work efficiency.],Disagree,5.745775165319618
+26,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to improve my work efficiency.],Strongly Disagree,3.056576047024247
+26,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to improve my work efficiency.],Strongly Agree,1.6311535635562087
+27,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to advance in my career.],Agree,44.62894930198383
+27,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to advance in my career.],Neutral,22.571638501102132
+27,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to advance in my career.],Strongly agree,20.764144011756063
+27,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to advance in my career.],Disagree,6.80382072005878
+27,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to advance in my career.],Strongly Disagree,3.673769287288758
+27,Training Opportunities - Please indicate your level of agreement with the following statements.  [Training has helped me to advance in my career.],Strongly Agree,1.5576781778104336
+28,Salary and Benefits - How satisfied are you with the following?  [Salary],Partially Satisfied,53.540993241257716
+28,Salary and Benefits - How satisfied are you with the following?  [Salary],Not Satisfied,21.069644431384074
+28,Salary and Benefits - How satisfied are you with the following?  [Salary],Fully Satisfied,20.305612694681162
+28,Salary and Benefits - How satisfied are you with the following?  [Salary],Satisfied,3.0855127828386717
+28,Salary and Benefits - How satisfied are you with the following?  [Salary],Partially,1.9982368498383778
+29,Salary and Benefits - How satisfied are you with the following?  [Other benefits/facilities],Partially Satisfied,53.79756133392096
+29,Salary and Benefits - How satisfied are you with the following?  [Other benefits/facilities],Not Satisfied,24.827383575730867
+29,Salary and Benefits - How satisfied are you with the following?  [Other benefits/facilities],Fully Satisfied,16.203907742030264
+29,Salary and Benefits - How satisfied are you with the following?  [Other benefits/facilities],Satisfied,2.7618627883061553
+29,Salary and Benefits - How satisfied are you with the following?  [Other benefits/facilities],Partially,2.4092845600117525
+30,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Career Advancement]",1.0,58.5548538698781
+30,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Career Advancement]",2.0,21.383463063592302
+30,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Career Advancement]",4.0,10.691731531796151
+30,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Career Advancement]",3.0,9.36995153473344
+31,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Remuneration]",2.0,49.50800411220443
+31,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Remuneration]",3.0,24.056395946541343
+31,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Remuneration]",4.0,14.084300190923777
+31,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Remuneration]",1.0,12.351299750330446
+32,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Work environment]",3.0,43.933607520564046
+32,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Work environment]",2.0,29.112808460634547
+32,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Work environment]",1.0,13.557579318448884
+32,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Work environment]",4.0,13.396004700352526
+33,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Image of the Organization]",4.0,54.80317273795534
+33,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Image of the Organization]",3.0,15.613983548766159
+33,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Image of the Organization]",2.0,15.026439482961221
+33,"Job switch - What do you believe are the top priority to switch job  at another Organization? 
+
+please list your priorities from 1 to 4. [Image of the Organization]",1.0,14.556404230317273
+34,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I would recommend my Organization as a great place to work.]",4.0,29.582843713278496
+34,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I would recommend my Organization as a great place to work.]",3.0,27.834900117508816
+34,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I would recommend my Organization as a great place to work.]",5.0,19.565217391304348
+34,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I would recommend my Organization as a great place to work.]",2.0,12.118096357226792
+34,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I would recommend my Organization as a great place to work.]",1.0,10.898942420681552
+35,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [My ideas are valued within the department/organization.]",4.0,31.589773729062593
+35,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [My ideas are valued within the department/organization.]",3.0,30.928592418454304
+35,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [My ideas are valued within the department/organization.]",2.0,16.07405230678813
+35,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [My ideas are valued within the department/organization.]",5.0,13.003232441962975
+35,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [My ideas are valued within the department/organization.]",1.0,8.404349103732
+36,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [The team work sprit is great.]",4.0,30.17038777908343
+36,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [The team work sprit is great.]",5.0,25.323149236192716
+36,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [The team work sprit is great.]",3.0,23.516451233842538
+36,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [The team work sprit is great.]",2.0,12.118096357226792
+36,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [The team work sprit is great.]",1.0,8.871915393654524
+37,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I am equally treated at work.]",4.0,31.776112825033053
+37,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I am equally treated at work.]",3.0,23.182018510356986
+37,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I am equally treated at work.]",5.0,21.228147495225503
+37,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I am equally treated at work.]",2.0,13.794623182018512
+37,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [I am equally treated at work.]",1.0,10.019097987365946
+38,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Organization provides all the resources and materials that I n",4.0,30.14986776373788
+38,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Organization provides all the resources and materials that I n",3.0,25.4628269174258
+38,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Organization provides all the resources and materials that I n",5.0,20.055833088451365
+38,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Organization provides all the resources and materials that I n",2.0,14.443138407287687
+38,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Organization provides all the resources and materials that I n",1.0,9.888333823097268
+39,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Health and safety protocols are maintained in the Organization",4.0,31.227038941954444
+39,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Health and safety protocols are maintained in the Organization",5.0,23.453343130051433
+39,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Health and safety protocols are maintained in the Organization",3.0,21.895664952241
+39,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Health and safety protocols are maintained in the Organization",2.0,13.240264511388686
+39,"What do you think about the working environment? 
+Please indicate your level of satisfaction rating from 1-5 on the following statements (1= not at all satisfied and 5= completely satisfied)  [Health and safety protocols are maintained in the Organization",1.0,10.183688464364437
+40,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Work has affected my family and social life balance.]",Agree,35.41942118407522
+40,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Work has affected my family and social life balance.]",Strongly agree,26.17893345085941
+40,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Work has affected my family and social life balance.]",Neutral,22.094902306449242
+40,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Work has affected my family and social life balance.]",Disagree,11.855442926399295
+40,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Work has affected my family and social life balance.]",Strongly Disagree,2.92346114294109
+40,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Work has affected my family and social life balance.]",Strongly Agree,1.5278389892757456
+41,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I get time to meet my family and relatives regularly.]",Neutral,28.915662650602407
+41,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I get time to meet my family and relatives regularly.]",Agree,27.372906259183072
+41,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I get time to meet my family and relatives regularly.]",Disagree,24.434322656479576
+41,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I get time to meet my family and relatives regularly.]",Strongly Disagree,13.50279165442257
+41,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I get time to meet my family and relatives regularly.]",Strongly agree,5.333529238906847
+41,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I get time to meet my family and relatives regularly.]",Strongly Agree,0.44078754040552454
+42,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Organization cares about my psychological and mental wellbeing.]",Neutral,33.78398236590742
+42,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Organization cares about my psychological and mental wellbeing.]",Agree,25.31961792799412
+42,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Organization cares about my psychological and mental wellbeing.]",Disagree,21.66054371785452
+42,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Organization cares about my psychological and mental wellbeing.]",Strongly Disagree,14.357090374724468
+42,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Organization cares about my psychological and mental wellbeing.]",Strongly agree,4.555473916238061
+42,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [Organization cares about my psychological and mental wellbeing.]",Strongly Agree,0.3232916972814107
+43,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I am able to take leave when required for family/social function.]",Agree,42.785777255362916
+43,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I am able to take leave when required for family/social function.]",Neutral,24.331472230384954
+43,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I am able to take leave when required for family/social function.]",Disagree,13.341169556273877
+43,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I am able to take leave when required for family/social function.]",Strongly agree,12.004114017043785
+43,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I am able to take leave when required for family/social function.]",Strongly Disagree,6.861592712312666
+43,"What do you think about your family/social life and mental wellbeing? 
+Please indicate your level of agreement with the following statements. [I am able to take leave when required for family/social function.]",Strongly Agree,0.6758742286218044
+44,"During the pandemic, Organization had been very responsive and helpful",Agree,41.16955627387599
+44,"During the pandemic, Organization had been very responsive and helpful",Strongly agree,23.993535116074053
+44,"During the pandemic, Organization had been very responsive and helpful",Neutral,19.644431384072877
+44,"During the pandemic, Organization had been very responsive and helpful",Disagree,7.581545694975023
+44,"During the pandemic, Organization had been very responsive and helpful",Strongly Disagree,5.627387599177196
+44,"During the pandemic, Organization had been very responsive and helpful",Strongly Agree,1.9835439318248604
