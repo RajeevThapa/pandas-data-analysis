@@ -16,7 +16,7 @@ The script reads an Excel file with survey data, calculates the percentage of ea
 1. Clone the repository to your local machine:
 
     ```
-    git clone <repository_url.git>
+    git clone https://github.com/RajeevThapa/pandas-data-analysis
     ```
 
 2. Install the required dependencies using pip:
@@ -31,7 +31,7 @@ The script reads an Excel file with survey data, calculates the percentage of ea
 2. Run the script using the following command:
 
     ```
-    python data_analysis.py
+    python main.py
     ```
 
 3. After execution, the script will generate a CSV file named `response_percentages.csv` containing the results.
